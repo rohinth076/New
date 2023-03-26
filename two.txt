@@ -1,3 +1,5 @@
 commit in two.txt
 auto merge
+change in cloud
+
 change in local
