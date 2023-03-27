@@ -1,4 +1,5 @@
 The first commit in one.txt
 update is here
 edit from cloud
+conflict in cloud
 check conflict
